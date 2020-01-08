@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Bootstrap v4 Blog</title>
+    <title>Posts on tai-s blog</title>
     <link>https://tai-s.github.io/post/</link>
-    <description>Recent content in Posts on Hugo Bootstrap v4 Blog</description>
+    <description>Recent content in Posts on tai-s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     <lastBuildDate>Thu, 02 Jan 2020 17:28:13 +0900</lastBuildDate>
     
 	<atom:link href="https://tai-s.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
+      <title>テスト</title>
       <link>https://tai-s.github.io/post/first/</link>
       <pubDate>Thu, 02 Jan 2020 17:28:13 +0900</pubDate>
       
       <guid>https://tai-s.github.io/post/first/</guid>
-      <description>today&#39;s topics brand new day.</description>
+      <description>投稿テストです。</description>
     </item>
     
   </channel>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Bootstrap v4 Blog</title>
+    <title>Tags on tai-s blog</title>
     <link>https://tai-s.github.io/tags/</link>
-    <description>Recent content in Tags on Hugo Bootstrap v4 Blog</description>
+    <description>Recent content in Tags on tai-s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     
 	<atom:link href="https://tai-s.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
