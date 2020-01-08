@@ -6,27 +6,27 @@
     <description>Recent content on tai-s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jan 2020 20:47:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 21:57:17 +0900</lastBuildDate>
     
 	<atom:link href="https://tai-s.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>投稿テスト2</title>
-      <link>https://tai-s.github.io/post/2020-01-08/</link>
-      <pubDate>Wed, 08 Jan 2020 20:47:10 +0900</pubDate>
+      <title>テスト</title>
+      <link>https://tai-s.github.io/post/2020-01-08-3/</link>
+      <pubDate>Wed, 08 Jan 2020 21:57:17 +0900</pubDate>
       
-      <guid>https://tai-s.github.io/post/2020-01-08/</guid>
-      <description>テスト投稿２</description>
+      <guid>https://tai-s.github.io/post/2020-01-08-3/</guid>
+      <description>テスト</description>
     </item>
     
     <item>
-      <title>テスト</title>
-      <link>https://tai-s.github.io/post/first/</link>
-      <pubDate>Thu, 02 Jan 2020 17:28:13 +0900</pubDate>
+      <title>An Example Post</title>
+      <link>https://tai-s.github.io/post/2020-01-08-2/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tai-s.github.io/post/first/</guid>
-      <description>投稿テストです。</description>
+      <guid>https://tai-s.github.io/post/2020-01-08-2/</guid>
+      <description></description>
     </item>
     
   </channel>
