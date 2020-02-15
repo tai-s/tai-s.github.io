@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on tai-s blog</title>
+    <title>Categories on tai-s Blog</title>
     <link>https://tai-s.github.io/categories/</link>
-    <description>Recent content in Categories on tai-s blog</description>
+    <description>Recent content in Categories on tai-s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jan 2020 21:57:17 +0900</lastBuildDate>
+    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Sat, 15 Feb 2020 10:57:11 +0900</lastBuildDate>
     
 	<atom:link href="https://tai-s.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     

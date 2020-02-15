@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tag2 on tai-s blog</title>
+    <title>tag2 on tai-s Blog</title>
     <link>https://tai-s.github.io/tags/tag2/</link>
-    <description>Recent content in tag2 on tai-s blog</description>
+    <description>Recent content in tag2 on tai-s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jan 2020 21:57:17 +0900</lastBuildDate>
+    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Sat, 15 Feb 2020 10:57:11 +0900</lastBuildDate>
     
 	<atom:link href="https://tai-s.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>テスト</title>
-      <link>https://tai-s.github.io/post/2020-01-08-3/</link>
-      <pubDate>Wed, 08 Jan 2020 21:57:17 +0900</pubDate>
+      <title>2020 02 15</title>
+      <link>https://tai-s.github.io/post/2020-02-15/</link>
+      <pubDate>Sat, 15 Feb 2020 10:57:11 +0900</pubDate>
       
-      <guid>https://tai-s.github.io/post/2020-01-08-3/</guid>
-      <description>テスト</description>
+      <guid>https://tai-s.github.io/post/2020-02-15/</guid>
+      <description>** test</description>
     </item>
     
   </channel>
